@@ -250,6 +250,7 @@ ul {
 }
 
 .landing .container .image {
+  background-image: url("../Image/Iphone\ 13\ pro.webp");
   flex-basis: 50%;
 }
 
