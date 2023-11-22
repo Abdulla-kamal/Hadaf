@@ -5,7 +5,6 @@ fetch("./products.json")
 
    // select container of boxes 
    let container = document.querySelector(".articles .container");
-   console.log()
    arrOgProducts.forEach(product=> {
       let box = document.createElement("div");
       // container ... box 

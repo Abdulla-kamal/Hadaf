@@ -1,5 +1,9 @@
 {
   "Iphone 13 Pro": ["Image/Iphone 13 pro.webp", "128gb", "3570-LYD"],
   "Iphone 8 Plus": ["Image/Iphone-8.webp", "256gb", "970-LYD"],
-  "Iphone 8 Plus+": ["Image/Iphone-8.webp", "64gb", "900-LYD"]
+  "Iphone 13": ["Image/Iphone 13.webp", "128GB", "2835-LYD"],
+  "Iphone 8 Plus+": ["Image/Iphone-8.webp", "64gb", "900-LYD"],
+  "Iphone 12 pro max": ["Image/Iphone 12 pro max.webp", "356GB", "3400-LYD"],
+  "Iphone 12 pro": ["Image/Iphone 12 pro.webp", "256GB", "2870-LYD"],
+  "Iphone 12 pro max.": ["Image/Iphone 12 pro max.webp", "128GB", "3290-LYD"]
 }
