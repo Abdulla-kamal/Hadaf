@@ -1,13 +1,18 @@
 {
   "Iphone 13 Pro": ["Image/Iphone 13 pro.webp", "128gb", "3570-LYD"],
   "Redmi 12": ["Image/redmi.webp", "256GB", "840-LYD"],
-  "Samsung A14": ["Image/smasung-A14.webp", "128GB-6Gb", "720-LYD"],
-  "Samsung S10": ["Image/samsung-S10.webp", "128GB-8Gb", "920-LYD"],
-  "Xiaomi Charging Cable": ["Image/Xiaomi-Cable.webp", "Strong & Fast", "65-LYD"],
+  "Samsung A14": ["Image/smasung-A14.webp", "128GB", "720-LYD"],
+  "Samsung S10": ["Image/samsung-S10.webp", "128GB", "920-LYD"],
+  "Xiaomi Charging Cable": ["Image/Xiaomi-Cable.webp", "Fast", "65-LYD"],
   "Iphone 8 Plus": ["Image/Iphone-8.webp", "256gb", "970-LYD"],
   "Iphone 13": ["Image/Iphone 13.webp", "128GB", "2835-LYD"],
   "Iphone 8 Plus+": ["Image/Iphone-8.webp", "64gb", "900-LYD"],
   "Iphone 12 pro max": ["Image/Iphone 12 pro max.webp", "356GB", "3400-LYD"],
   "Iphone 12 pro": ["Image/Iphone 12 pro.webp", "256GB", "2870-LYD"],
-  "Iphone 12 pro max.": ["Image/Iphone 12 pro max.webp", "128GB", "3290-LYD"]
+  "Iphone 12 pro max.": ["Image/Iphone 12 pro max.webp", "128GB", "3290-LYD"],
+  "Samsung A04" : ["Image/A04-32g-455.webp", "32g", "455-LYD"],
+  "Iphone XS" : ["Image/Iphone-64g-890.jpg", "64g", "890-LYD"],
+  "Iphone XS-MAX" : ["Image/Iphone-xsma-64g-1450.webp", "64g", "1450-LYD"],
+  "Samsung A24" : ["Image/Samsung-A24-128g-950.webp", "128g", "950-LYD"],
+  "A04E": ["Image/A04E.webp","", "480-LYD"]
 }
